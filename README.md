@@ -1,7 +1,8 @@
 ### Saudações! Me chamo Luiz Felipe 😎
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizdisplay501@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/luizfelipeao/))
 
 
 ![Luiz-Display GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-Display&show_icons=true&theme=tokyonight)
@@ -18,6 +19,11 @@
  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
+ <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+ <img align="center" alt="Database" src="https://img.shields.io/badge/Database-4DB33D?style=for-the-badge&logo=databricks&logoColor=white" />
+
 
 </div><br/>
 
