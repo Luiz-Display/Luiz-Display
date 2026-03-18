@@ -24,6 +24,8 @@
 
  <img align="center" alt="Database" src="https://img.shields.io/badge/Database-4DB33D?style=for-the-badge&logo=databricks&logoColor=white" />
 
+<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 
 </div><br/>
 
